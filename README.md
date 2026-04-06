@@ -64,5 +64,5 @@ This project demonstrates:
 ---
 
 ## 👤 Author
-**Piyoosh Krishna**  
+**Piyoosh Krishna M**  
 Aspiring Artificial Intelligence Enthusiast
